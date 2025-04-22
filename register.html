@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registro - Gym App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="register-container">
+        <h2>Registro de Usuario</h2>
+        <form id="register-form">
+            <label for="nombre">Nombre:</label>
+            <input type="text" id="nombre" placeholder="Nombre" required>
+
+            <label for="apellido1">Primer Apellido:</label>
+            <input type="text" id="apellido1" placeholder="Primer Apellido" required>
+
+            <label for="apellido2">Segundo Apellido:</label>
+            <input type="text" id="apellido2" placeholder="Segundo Apellido" required>
+
+            <label for="edad">Edad:</label>
+            <input type="number" id="edad" placeholder="Edad" required>
+
+            <label for="dni">DNI:</label>
+            <input type="text" id="dni" placeholder="DNI" required>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" placeholder="Email" required>
+
+            <label for="sexo">Sexo:</label>
+            <select id="sexo" required>
+                <option value="FEMENINO">Femenino</option>
+                <option value="MASCULINO">Masculino</option>
+            </select>
+
+            <label for="membresia">Tipo de Membresía:</label>
+            <select id="membresia" required>
+                <option value="BÁSICA">Básica</option>
+                <option value="PREMIUM">Premium</option>
+                <option value="VIP">VIP</option>
+            </select>
+
+            <button type="submit">Registrar</button>
+        </form>
+
+        <p id="error-message" style="color: red;"></p>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

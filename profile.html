@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perfil - Gym App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="profile-container">
+        <h2>Bienvenido, <span id="user-name"></span></h2>
+        <div class="profile-info">
+            <p><strong>Nombre:</strong> <span id="nombre"></span></p>
+            <p><strong>Apellidos:</strong> <span id="apellidos"></span></p>
+            <p><strong>Edad:</strong> <span id="edad"></span></p>
+            <p><strong>Email:</strong> <span id="email"></span></p>
+            <p><strong>Sexo:</strong> <span id="sexo"></span></p>
+            <p><strong>Membresía:</strong> <span id="membresia"></span></p>
+            <p><strong>Acceso:</strong> <span id="acceso"></span></p>
+        </div>
+
+        <div class="change-password">
+            <h3>Cambiar contraseña (DNI)</h3>
+            <form id="change-password-form">
+                <label for="new-dni">Nuevo DNI:</label>
+                <input type="text" id="new-dni" placeholder="Introduce nuevo DNI" required>
+                <button type="submit">Cambiar contraseña</button>
+            </form>
+        </div>
+
+        <button id="logout-button">Cerrar sesión</button>
+    </div>
+
+    <script src="profile.js"></script>
+</body>
+</html>
