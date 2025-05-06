@@ -1,0 +1,3 @@
+﻿  SegundoGrado.cpp
+D:\VS STUDIO\SegundoGrado\SegundoGrado\SegundoGrado.cpp(12,9): warning C4101: 'positivo_sqrt': variable local sin referencia
+  SegundoGrado.vcxproj -> D:\VS STUDIO\SegundoGrado\x64\Debug\SegundoGrado.exe

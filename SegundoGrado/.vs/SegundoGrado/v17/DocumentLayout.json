@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS STUDIO\\SegundoGrado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA096BC7-7B59-410D-B689-3B8F67782E60}|SegundoEquacion\\SegundoEquacion.vcxproj|D:\\VS STUDIO\\SegundoGrado\\SegundoEquacion\\SegundoEquacion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FA096BC7-7B59-410D-B689-3B8F67782E60}|SegundoEquacion\\SegundoEquacion.vcxproj|solutionrelative:SegundoEquacion\\SegundoEquacion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC07BAE-8362-4CA8-829B-22FFEAF81F8A}|UnitTestEquaciones\\UnitTestEquaciones.vcxproj|D:\\VS STUDIO\\SegundoGrado\\UnitTestEquaciones\\UnitTestEquaciones.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAC07BAE-8362-4CA8-829B-22FFEAF81F8A}|UnitTestEquaciones\\UnitTestEquaciones.vcxproj|solutionrelative:UnitTestEquaciones\\UnitTestEquaciones.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTestEquaciones.cpp",
+              "DocumentMoniker": "D:\\VS STUDIO\\SegundoGrado\\UnitTestEquaciones\\UnitTestEquaciones.cpp",
+              "RelativeDocumentMoniker": "UnitTestEquaciones\\UnitTestEquaciones.cpp",
+              "ToolTip": "D:\\VS STUDIO\\SegundoGrado\\UnitTestEquaciones\\UnitTestEquaciones.cpp",
+              "RelativeToolTip": "UnitTestEquaciones\\UnitTestEquaciones.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-29T10:51:58.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SegundoEquacion.cpp",
+              "DocumentMoniker": "D:\\VS STUDIO\\SegundoGrado\\SegundoEquacion\\SegundoEquacion.cpp",
+              "RelativeDocumentMoniker": "SegundoEquacion\\SegundoEquacion.cpp",
+              "ToolTip": "D:\\VS STUDIO\\SegundoGrado\\SegundoEquacion\\SegundoEquacion.cpp",
+              "RelativeToolTip": "SegundoEquacion\\SegundoEquacion.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-29T07:10:30.314Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

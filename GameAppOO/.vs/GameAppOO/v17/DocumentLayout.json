@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS STUDIO\\GameAppOO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F15E71CB-4808-490C-A4A2-10FD4536E7C4}|GameAppOO\\GameAppOO.vcxproj|D:\\VS STUDIO\\GameAppOO\\GameAppOO\\GameAppOO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F15E71CB-4808-490C-A4A2-10FD4536E7C4}|GameAppOO\\GameAppOO.vcxproj|solutionrelative:GameAppOO\\GameAppOO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15E71CB-4808-490C-A4A2-10FD4536E7C4}|GameAppOO\\GameAppOO.vcxproj|D:\\VS STUDIO\\GameAppOO\\GameAppOO\\finalBoss.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F15E71CB-4808-490C-A4A2-10FD4536E7C4}|GameAppOO\\GameAppOO.vcxproj|solutionrelative:GameAppOO\\finalBoss.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15E71CB-4808-490C-A4A2-10FD4536E7C4}|GameAppOO\\GameAppOO.vcxproj|D:\\VS STUDIO\\GameAppOO\\GameAppOO\\Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F15E71CB-4808-490C-A4A2-10FD4536E7C4}|GameAppOO\\GameAppOO.vcxproj|solutionrelative:GameAppOO\\Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F15E71CB-4808-490C-A4A2-10FD4536E7C4}|GameAppOO\\GameAppOO.vcxproj|D:\\VS STUDIO\\GameAppOO\\GameAppOO\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F15E71CB-4808-490C-A4A2-10FD4536E7C4}|GameAppOO\\GameAppOO.vcxproj|solutionrelative:GameAppOO\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "finalBoss.h",
+              "DocumentMoniker": "D:\\VS STUDIO\\GameAppOO\\GameAppOO\\finalBoss.h",
+              "RelativeDocumentMoniker": "GameAppOO\\finalBoss.h",
+              "ToolTip": "D:\\VS STUDIO\\GameAppOO\\GameAppOO\\finalBoss.h",
+              "RelativeToolTip": "GameAppOO\\finalBoss.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-28T10:52:23.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Character.cpp",
+              "DocumentMoniker": "D:\\VS STUDIO\\GameAppOO\\GameAppOO\\Character.cpp",
+              "RelativeDocumentMoniker": "GameAppOO\\Character.cpp",
+              "ToolTip": "D:\\VS STUDIO\\GameAppOO\\GameAppOO\\Character.cpp",
+              "RelativeToolTip": "GameAppOO\\Character.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-28T10:37:52.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Character.h",
+              "DocumentMoniker": "D:\\VS STUDIO\\GameAppOO\\GameAppOO\\Character.h",
+              "RelativeDocumentMoniker": "GameAppOO\\Character.h",
+              "ToolTip": "D:\\VS STUDIO\\GameAppOO\\GameAppOO\\Character.h",
+              "RelativeToolTip": "GameAppOO\\Character.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-28T10:36:37.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameAppOO.cpp",
+              "DocumentMoniker": "D:\\VS STUDIO\\GameAppOO\\GameAppOO\\GameAppOO.cpp",
+              "RelativeDocumentMoniker": "GameAppOO\\GameAppOO.cpp",
+              "ToolTip": "D:\\VS STUDIO\\GameAppOO\\GameAppOO\\GameAppOO.cpp",
+              "RelativeToolTip": "GameAppOO\\GameAppOO.cpp",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAYwHQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-25T07:47:16.89Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

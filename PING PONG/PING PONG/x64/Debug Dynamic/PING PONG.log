@@ -1,0 +1,17 @@
+﻿  El sistema no puede encontrar la ruta especificada.
+  El sistema no puede encontrar la ruta especificada.
+  El sistema no puede encontrar la ruta especificada.
+  El sistema no puede encontrar la ruta especificada.
+  El sistema no puede encontrar la ruta especificada.
+  El sistema no puede encontrar la ruta especificada.
+  Ya existe el subdirectorio o el archivo D:\VS STUDIO\PING PONG\x64\Debug Dynamic\resources.
+  El sistema no puede encontrar el archivo especificado.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v150\Microsoft.CppCommon.targets(128,5): error MSB3073: El comando "copy /Y "D:\VS STUDIO\PING PONG\extlibs\bin\x64\sfml-audio-d-2.dll"  "D:\VS STUDIO\PING PONG\x64\Debug Dynamic\sfml-audio-d-2.dll"
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v150\Microsoft.CppCommon.targets(128,5): error MSB3073: copy /Y "D:\VS STUDIO\PING PONG\extlibs\bin\x64\sfml-graphics-d-2.dll"  "D:\VS STUDIO\PING PONG\x64\Debug Dynamic\sfml-graphics-d-2.dll"
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v150\Microsoft.CppCommon.targets(128,5): error MSB3073: copy /Y "D:\VS STUDIO\PING PONG\extlibs\bin\x64\sfml-network-d-2.dll"  "D:\VS STUDIO\PING PONG\x64\Debug Dynamic\sfml-network-d-2.dll"
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v150\Microsoft.CppCommon.targets(128,5): error MSB3073: copy /Y "D:\VS STUDIO\PING PONG\extlibs\bin\x64\sfml-system-d-2.dll"  "D:\VS STUDIO\PING PONG\x64\Debug Dynamic\sfml-system-d-2.dll"
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v150\Microsoft.CppCommon.targets(128,5): error MSB3073: copy /Y "D:\VS STUDIO\PING PONG\extlibs\bin\x64\sfml-window-d-2.dll"  "D:\VS STUDIO\PING PONG\x64\Debug Dynamic\sfml-window-d-2.dll"
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v150\Microsoft.CppCommon.targets(128,5): error MSB3073: copy /Y "D:\VS STUDIO\PING PONG\extlibs\bin\x64\openal32.dll"  "D:\VS STUDIO\PING PONG\x64\Debug Dynamic\openal32.dll"
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v150\Microsoft.CppCommon.targets(128,5): error MSB3073: mkdir "D:\VS STUDIO\PING PONG\x64\Debug Dynamic\resources"
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v150\Microsoft.CppCommon.targets(128,5): error MSB3073: copy /Y "D:\VS STUDIO\PING PONG\resources"  "D:\VS STUDIO\PING PONG\x64\Debug Dynamic\resources\"
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v150\Microsoft.CppCommon.targets(128,5): error MSB3073: :VCEnd" salió con el código 1.
